@@ -65,7 +65,7 @@ This game is inspired by classic bubble-popping games and is a great way to lear
 
 ## 👨‍💻 Author
 
-**Ravi** 
+**Raviranjan ** 
 
 ---
 
